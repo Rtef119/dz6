@@ -1,3 +1,9 @@
+print("Ce ne treba!")
+
+
+
+
+
 #result = []
 #def divider(a, b):
     #if a < b:
