@@ -1,6 +1,6 @@
 def divider(a, b):
    try:
-       return a / b
+       return a/b
 
    except ZeroDivisionError:
        print("Nemozna dilutu na 0!")
