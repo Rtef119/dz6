@@ -15,7 +15,7 @@ def divider(a, b):
        return 0
 
 "Ctertu "#" ckob pobazutu rezyttat:"
-#data = {10: 2, 2: 5, "123": 4, 18: 0, 8: 4}
+data = {10: 2, 2: 5, "123": 4, 18: 0, 8: 4}
 #Dilutu ne huslovi znakena nemozna Nemozna dilutu na 0! [5.0, 0.4, 0, 0, 2.0]
 "abo"
 #data = {10: 2, 2: 5, 123: 4, 18: 0, 8: 4}
